@@ -12,4 +12,4 @@ Currently supports "primitive" types and the following types from `typing`:
 * Tuple
 * List
 
-The library can also handle nested types (such as List[List[int]]).
+The library can also handle nested types (such as `List[List[int]]`).
